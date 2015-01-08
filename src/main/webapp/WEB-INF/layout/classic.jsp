@@ -23,10 +23,15 @@
 <!-- Latest compiled and minified JavaScript -->
 <script
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title><tiles:getAsString name="title" /></title>
 </head>
 <body>
+
+
+
+
 	<div class="container">
 
 		<nav class="navbar navbar-default">
